@@ -6,7 +6,7 @@ I am a current student at the University of Arizona majoring in Cyber Operations
 
 ## Objective
 
-Throughout my career as a student I have enjoyed all of the small coding projects I have done but, especially all of the security and network focused ones, this has lead to my passion in the field od cybersecurity and as I transition into this career I am eager to become a Pen Tester.
+Throughout my career as a student I have enjoyed all of the small coding projects I have done but, especially all of the security and network focused ones, this has lead to my passion in the field of cybersecurity, and as I transition into this career I am eager to become a Pen Tester.
 
 
 ## Skills
