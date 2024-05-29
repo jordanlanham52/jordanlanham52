@@ -1,5 +1,5 @@
 # Hello, I'm Jordan
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/jordan-lanham-78b792310"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
 I am a current student at the University of Arizona majoring in Cyber Operations: Defense and Forensics at the college of applied sciences and technology.
