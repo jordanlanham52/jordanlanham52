@@ -9,17 +9,6 @@ I am a current student and freshman at the University of Arizona majoring in Cyb
 Throughout my career as a student I have enjoyed all of the small coding projects I have done but, especially all of the security and network focused ones, this has lead to my passion in the field of cybersecurity, and as I transition into this career I am eager to become a Pen Tester.
 
 
-## Skills
-
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
-
 ## Tools
 
 ### Network
