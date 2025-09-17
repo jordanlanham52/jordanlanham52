@@ -2,11 +2,11 @@
 <a href="https://www.linkedin.com/in/jordan-lanham-78b792310"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I am a current student and freshman at the University of Arizona majoring in Cyber Operations: Cyber Engineering at the college of applied sciences and technology.
+I am a current student and junior at the University of Arizona, majoring in Cyber Operations: Cyber Engineering at the College of Information Science.
 
 ## Objective
 
-Throughout my career as a student I have enjoyed all of the small coding projects I have done but, especially all of the security and network focused ones, this has lead to my passion in the field of cybersecurity, and as I transition into this career I am eager to become a Pen Tester.
+Throughout my career as a student, I have enjoyed all the small coding projects I have completed, especially those focused on security and networks. This has led to my passion for the field of cybersecurity, and as I transition into this career, I am eager to become a Pen Tester.
 
 
 ## Tools
